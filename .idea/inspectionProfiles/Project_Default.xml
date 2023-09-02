@@ -1,0 +1,53 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="112" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="stand" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="9">
+            <item index="0" class="java.lang.String" itemvalue="xhtml2pdf" />
+            <item index="1" class="java.lang.String" itemvalue="reportlab" />
+            <item index="2" class="java.lang.String" itemvalue="opencv-contrib-python" />
+            <item index="3" class="java.lang.String" itemvalue="customtkinter" />
+            <item index="4" class="java.lang.String" itemvalue="pillow" />
+            <item index="5" class="java.lang.String" itemvalue="pygrabber" />
+            <item index="6" class="java.lang.String" itemvalue="ttkbootstrap" />
+            <item index="7" class="java.lang.String" itemvalue="python-uinput" />
+            <item index="8" class="java.lang.String" itemvalue="pyside6" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N814" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyRedundantParenthesesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="core.tasks.get_images_from_google_dmap_task.s" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
