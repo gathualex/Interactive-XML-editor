@@ -3,9 +3,11 @@
 
 This is an interactive XML editor made using python ttk bootstrap package and Tkinter. It is a simple XML editor that allows you to create, open, edit, and save XML files. It also has a preferences menu that allows you to change the font size, font family, and font style.
 It also has a dark mode and a light mode. It also has a spell checker that checks for spelling errors in the XML file and highlights them in purple.
+
 ![Screenshot 1](images/spelling-error.png)
 
 Syntax highlighting is also available for the XML tags and attributes, if there is an error in the XML file, the line with the error will be highlighted in red. 
+
 ![Screenshot 2](images/syntax-error.png)
 
 
