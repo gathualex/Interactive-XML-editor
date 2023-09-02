@@ -1,0 +1,2 @@
+ttkbootstrap == 1.10.1
+pyenchant == 3.2.2
